@@ -10,4 +10,4 @@ $ python dump.py 1234567.dat
 
 ## References
 
-- https://github.com/patric-r/ICQExport
+Based on spec taken from https://github.com/miranda-ng/miranda-ng/blob/master/plugins/Import/docs/import-ICQ_Db_Specs.txt
